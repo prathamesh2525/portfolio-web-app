@@ -4,10 +4,12 @@ body {
 }
 #pro-ject,#project-tit,#footer{
   transition: 500ms;
+  
 }
 
 section {
   background-color: white;
+
 }
 
 .hero {
