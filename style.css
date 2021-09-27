@@ -2,6 +2,9 @@ body {
   font-family: "Poppins", sans-serif;
   margin: 0;
 }
+#pro-ject,#project-tit,#footer{
+  transition: 500ms;
+}
 
 section {
   background-color: white;
